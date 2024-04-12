@@ -1,0 +1,5 @@
+19-Simulating X, Y, Z Company Network Design and simulate using Packet Tracer
+22-Make a Computer Lab to transfer a message from one node to another to design and simulate using Cisco Packet Tracer
+29-Identify and monitor the IP, network address, Trace the router
+information, how to take remote system and Check the node connection
+in network.
